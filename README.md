@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text= &animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 # (。・∀・)ノ Current Stats:
 ![](https://github-readme-stats.vercel.app/api?username=m-a45&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=m-a45&theme=dark&hide_border=false)<br/>
